@@ -1,0 +1,22 @@
+{
+  "solution": {
+    "babel-plugin-ember-import-meta": {
+      "impact": "patch",
+      "oldVersion": "0.0.0",
+      "newVersion": "0.0.1",
+      "tagName": "latest",
+      "constraints": [
+        {
+          "impact": "patch",
+          "reason": "Appears in changelog section :memo: Documentation"
+        },
+        {
+          "impact": "patch",
+          "reason": "Appears in changelog section :house: Internal"
+        }
+      ],
+      "pkgJSONPath": "./package.json"
+    }
+  },
+  "description": "## Release (2025-09-05)\n\n* babel-plugin-ember-import-meta 0.0.1 (patch)\n\n#### :memo: Documentation\n* `babel-plugin-ember-import-meta`\n  * [#6](https://github.com/bobisjan/babel-plugin-ember-import-meta/pull/6) Fix link to license ([@bobisjan](https://github.com/bobisjan))\n\n#### :house: Internal\n* `babel-plugin-ember-import-meta`\n  * [#8](https://github.com/bobisjan/babel-plugin-ember-import-meta/pull/8) ESLint, ignore CHANGELOG ([@bobisjan](https://github.com/bobisjan))\n  * [#7](https://github.com/bobisjan/babel-plugin-ember-import-meta/pull/7) Prettier, ignore CHANGELOG ([@bobisjan](https://github.com/bobisjan))\n  * [#2](https://github.com/bobisjan/babel-plugin-ember-import-meta/pull/2) Setup release plan ([@bobisjan](https://github.com/bobisjan))\n\n#### Committers: 1\n- Jan Bobisud ([@bobisjan](https://github.com/bobisjan))\n"
+}

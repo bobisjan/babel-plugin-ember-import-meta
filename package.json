@@ -15,6 +15,9 @@
   "files": [
     "src/**/*.js"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "format": "prettier . --check",
     "lint": "eslint . --cache",

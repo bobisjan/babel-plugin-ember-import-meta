@@ -6,15 +6,15 @@
   "license": "MIT",
   "author": "Jan Bobisud",
   "type": "module",
+  "imports": {
+    "#src": "./src/index.js"
+  },
   "exports": {
     ".": "./src/index.js"
   },
   "files": [
     "src/**/*.js"
   ],
-  "imports": {
-    "#src": "./src/index.js"
-  },
   "scripts": {
     "format": "prettier . --check",
     "lint": "eslint . --cache",
@@ -22,15 +22,6 @@
   },
   "dependencies": {
     "@babel/helper-module-imports": "^7.27.1"
-  },
-  "engines": {
-    "node": "22.19.0",
-    "pnpm": "10.15.1"
-  },
-  "packageManager": "pnpm@10.15.1",
-  "volta": {
-    "node": "22.19.0",
-    "pnpm": "10.15.1"
   },
   "devDependencies": {
     "@babel/core": "^7.28.3",
@@ -42,6 +33,16 @@
     "eslint": "^9.34.0",
     "eslint-config-prettier": "^10.1.8",
     "globals": "^16.3.0",
-    "prettier": "^3.6.2"
+    "prettier": "^3.6.2",
+    "release-plan": "^0.16.0"
+  },
+  "packageManager": "pnpm@10.15.1",
+  "engines": {
+    "node": "22.19.0",
+    "pnpm": "10.15.1"
+  },
+  "volta": {
+    "node": "22.19.0",
+    "pnpm": "10.15.1"
   }
 }

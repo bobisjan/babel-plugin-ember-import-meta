@@ -62,4 +62,4 @@ The `import.meta.env.*` variables depend on support of Vite or Webpack.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.md).

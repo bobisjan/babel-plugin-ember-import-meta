@@ -2,6 +2,17 @@
 
 ## Release (2025-09-05)
 
+* babel-plugin-ember-import-meta 0.0.2 (patch)
+
+#### :house: Internal
+* `babel-plugin-ember-import-meta`
+  * [#11](https://github.com/bobisjan/babel-plugin-ember-import-meta/pull/11) Add publish config for npm ([@bobisjan](https://github.com/bobisjan))
+
+#### Committers: 1
+- Jan Bobisud ([@bobisjan](https://github.com/bobisjan))
+
+## Release (2025-09-05)
+
 * babel-plugin-ember-import-meta 0.0.1 (patch)
 
 #### :memo: Documentation

@@ -1,5 +1,10 @@
 # Changelog
 
+
+
+
+
+
 ## Release (2025-09-05)
 
 * babel-plugin-ember-import-meta 0.0.2 (patch)

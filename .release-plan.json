@@ -2,8 +2,8 @@
   "solution": {
     "babel-plugin-ember-import-meta": {
       "impact": "patch",
-      "oldVersion": "0.0.1",
-      "newVersion": "0.0.2",
+      "oldVersion": "0.0.2",
+      "newVersion": "0.0.3",
       "tagName": "latest",
       "constraints": [
         {
@@ -14,5 +14,5 @@
       "pkgJSONPath": "./package.json"
     }
   },
-  "description": "## Release (2025-09-05)\n\n* babel-plugin-ember-import-meta 0.0.2 (patch)\n\n#### :house: Internal\n* `babel-plugin-ember-import-meta`\n  * [#11](https://github.com/bobisjan/babel-plugin-ember-import-meta/pull/11) Add publish config for npm ([@bobisjan](https://github.com/bobisjan))\n\n#### Committers: 1\n- Jan Bobisud ([@bobisjan](https://github.com/bobisjan))\n"
+  "description": "## Release (2025-10-09)\n\n* babel-plugin-ember-import-meta 0.0.3 (patch)\n\n#### :house: Internal\n* `babel-plugin-ember-import-meta`\n  * [#17](https://github.com/bobisjan/babel-plugin-ember-import-meta/pull/17) Use dedicated token for release plan ([@bobisjan](https://github.com/bobisjan))\n\n#### Committers: 1\n- Jan Bobisud ([@bobisjan](https://github.com/bobisjan))\n"
 }

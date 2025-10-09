@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-ember-import-meta",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A babel plugin to support import.meta.* for Ember.js applications",
   "repository": "https://github.com/bobisjan/babel-plugin-ember-import-meta.git",
   "license": "MIT",

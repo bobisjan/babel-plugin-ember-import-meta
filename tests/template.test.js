@@ -22,7 +22,7 @@ export default setComponentTemplate(createTemplateFactory(
 {
   "id": "index",
   "block": "[[[10,\\"h1\\"],[12],[1,[32,0]],[13]],[],[]]",
-  "moduleName": "/index.gjs",
+  "moduleName": "(unknown template module)",
   "scope": () => [a],
   "isStrictMode": true
 }), templateOnly());`,
@@ -47,7 +47,7 @@ export default setComponentTemplate(createTemplateFactory(
 {
   "id": "index",
   "block": "[[[10,\\"h1\\"],[12],[1,[32,0]],[13]],[],[]]",
-  "moduleName": "/index.gjs",
+  "moduleName": "(unknown template module)",
   "scope": () => [a],
   "isStrictMode": true
 }), templateOnly());`,
@@ -73,7 +73,7 @@ export default setComponentTemplate(createTemplateFactory(
 {
   "id": "index",
   "block": "[[[10,\\"img\\"],[15,\\"src\\",[32,0]],[12],[13]],[],[]]",
-  "moduleName": "/index.gjs",
+  "moduleName": "(unknown template module)",
   "scope": () => [a],
   "isStrictMode": true
 }), templateOnly());`,
@@ -99,7 +99,7 @@ export default setComponentTemplate(createTemplateFactory(
 {
   "id": "index",
   "block": "[[[44,[[32,0]],[[[1,[30,1]]],[1]]]],[\\"foo\\"],[\\"let\\"]]",
-  "moduleName": "/index.gjs",
+  "moduleName": "(unknown template module)",
   "scope": () => [a],
   "isStrictMode": true
 }), templateOnly());`,

@@ -1,5 +1,16 @@
 # Changelog
 
+## Release (2026-04-28)
+
+* babel-plugin-ember-import-meta 0.0.4 (patch)
+
+#### :house: Internal
+* `babel-plugin-ember-import-meta`
+  * [#74](https://github.com/bobisjan/babel-plugin-ember-import-meta/pull/74) Update release plan to use OIDC ([@bobisjan](https://github.com/bobisjan))
+
+#### Committers: 1
+- Jan Bobisud ([@bobisjan](https://github.com/bobisjan))
+
 ## Release (2025-10-09)
 
 * babel-plugin-ember-import-meta 0.0.3 (patch)

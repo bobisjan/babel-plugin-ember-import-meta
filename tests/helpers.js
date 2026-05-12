@@ -12,7 +12,6 @@ export async function transform(code) {
       [
         'babel-plugin-ember-template-compilation',
         {
-          compilerPath: 'ember-source/dist/ember-template-compiler.js',
           transforms: [templateImportMeta],
         },
       ],
@@ -20,8 +19,5 @@ export async function transform(code) {
     ],
   });
 
-  return result.code
-    .trim()
-    .replaceAll(process.cwd(), '')
-    .replaceAll(/"id": "[a-zA-Z0-9/]+"/g, '"id": "index"');
+  return result.code.trim();
 }

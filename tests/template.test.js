@@ -20,10 +20,12 @@ export default setComponentTemplate(createTemplateFactory(
   <h1>{{import.meta.url}}</h1>
 */
 {
-  "id": "index",
+  "id": null,
   "block": "[[[10,\\"h1\\"],[12],[1,[32,0]],[13]],[],[]]",
   "moduleName": "(unknown template module)",
-  "scope": () => [a],
+  "scope": () => ({
+    a
+  }),
   "isStrictMode": true
 }), templateOnly());`,
     );
@@ -45,10 +47,12 @@ export default setComponentTemplate(createTemplateFactory(
   <h1>{{import.meta.env.SSR}}</h1>
 */
 {
-  "id": "index",
+  "id": null,
   "block": "[[[10,\\"h1\\"],[12],[1,[32,0]],[13]],[],[]]",
   "moduleName": "(unknown template module)",
-  "scope": () => [a],
+  "scope": () => ({
+    a
+  }),
   "isStrictMode": true
 }), templateOnly());`,
     );
@@ -71,10 +75,12 @@ export default setComponentTemplate(createTemplateFactory(
   <img src={{import.meta.resolve "./foo.png"}} />
 */
 {
-  "id": "index",
+  "id": null,
   "block": "[[[10,\\"img\\"],[15,\\"src\\",[32,0]],[12],[13]],[],[]]",
   "moduleName": "(unknown template module)",
-  "scope": () => [a],
+  "scope": () => ({
+    a
+  }),
   "isStrictMode": true
 }), templateOnly());`,
     );
@@ -97,10 +103,12 @@ export default setComponentTemplate(createTemplateFactory(
   {{#let (import.meta.resolve "./foo.png") as |foo|}}{{foo}}{{/let}}
 */
 {
-  "id": "index",
+  "id": null,
   "block": "[[[44,[[32,0]],[[[1,[30,1]]],[1]]]],[\\"foo\\"],[\\"let\\"]]",
   "moduleName": "(unknown template module)",
-  "scope": () => [a],
+  "scope": () => ({
+    a
+  }),
   "isStrictMode": true
 }), templateOnly());`,
     );

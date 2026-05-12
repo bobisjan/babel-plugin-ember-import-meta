@@ -26,7 +26,6 @@ export default {
     [
       'babel-plugin-ember-template-compilation',
       {
-        compilerPath: 'ember-source/dist/ember-template-compiler.js',
         transforms: [templateImportMeta],
       },
     ],

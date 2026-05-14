@@ -1,5 +1,20 @@
 # Changelog
 
+## Release (2026-05-14)
+
+* babel-plugin-ember-import-meta 0.0.5 (patch)
+
+#### :memo: Documentation
+* `babel-plugin-ember-import-meta`
+  * [#80](https://github.com/bobisjan/babel-plugin-ember-import-meta/pull/80) Remove `compilerPath` from docs ([@bobisjan](https://github.com/bobisjan))
+
+#### :house: Internal
+* `babel-plugin-ember-import-meta`
+  * [#81](https://github.com/bobisjan/babel-plugin-ember-import-meta/pull/81) Restore token for release plan ([@bobisjan](https://github.com/bobisjan))
+
+#### Committers: 1
+- Jan Bobisud ([@bobisjan](https://github.com/bobisjan))
+
 ## Release (2026-04-28)
 
 * babel-plugin-ember-import-meta 0.0.4 (patch)

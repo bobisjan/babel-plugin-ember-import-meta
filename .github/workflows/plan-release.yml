@@ -51,6 +51,7 @@ jobs:
           commit-message: "Prepare Release ${{ steps.explanation.outputs.new-version}} using 'release-plan'"
           labels: 'internal'
           sign-commits: true
+          token: ${{ secrets.RELEASE_PLAN_TOKEN }}
           branch: release-preview
           title: Prepare Release ${{ steps.explanation.outputs.new-version }}
           body: |

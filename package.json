@@ -24,7 +24,7 @@
     "test": "node --test"
   },
   "dependencies": {
-    "@babel/helper-module-imports": "^7.27.1"
+    "@babel/helper-module-imports": "^8.0.0"
   },
   "devDependencies": {
     "@babel/core": "^8.0.1",

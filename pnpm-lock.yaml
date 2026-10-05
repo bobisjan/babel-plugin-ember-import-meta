@@ -26,7 +26,7 @@ importers:
         version: 4.0.0
       content-tag:
         specifier: ^4.0.0
-        version: 4.2.0
+        version: 4.2.1
       ember-source:
         specifier: ^7.0.0
         version: 7.3.0(@glimmer/component@2.0.0)
@@ -755,8 +755,8 @@ packages:
   config-chain@1.1.13:
     resolution: {integrity: sha512-qj+f8APARXHrM0hraqXYb2/bOVSV4PvJQlNZ/DVj0QrmNM2q2euizkeuVckQ57J+W0mRH6Hvi+k50M4Jul2VRQ==}
 
-  content-tag@4.2.0:
-    resolution: {integrity: sha512-f/o+F3qSa4gg23I7RWy6cMDxP2nPo99YWusxw2bjne7ZC6Acqqf4uB/+87AekOq1ehTocHH7b7nMd2X4S3NHVw==}
+  content-tag@4.2.1:
+    resolution: {integrity: sha512-DZwqYmBVGfCrybcMpXv5y5wkbicXZ5zlktIy4hH4EE3q/Sk3W2SRENJa3re+Ak8aegoKgOPCGZSuFmbQQ+h+GQ==}
 
   content-type@2.1.0:
     resolution: {integrity: sha512-mj7UPXE0jaqaOsukNZRUEfEi2AcL7C/vwmwcHV0O97eO1E1pxBZuyjlZrx5seTaNBg1U6+o35wpa35Qfcc+7ag==}
@@ -2878,7 +2878,7 @@ snapshots:
       ini: 1.3.8
       proto-list: 1.2.4
 
-  content-tag@4.2.0: {}
+  content-tag@4.2.1: {}
 
   content-type@2.1.0: {}
 

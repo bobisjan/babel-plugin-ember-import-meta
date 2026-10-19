@@ -1,5 +1,16 @@
 # Changelog
 
+## Release (2026-10-19)
+
+* babel-plugin-ember-import-meta 0.1.0 (minor)
+
+#### :rocket: Enhancement
+* `babel-plugin-ember-import-meta`
+  * [#129](https://github.com/bobisjan/babel-plugin-ember-import-meta/pull/129) Allow to use helper module imports with Babel 8 ([@bobisjan](https://github.com/bobisjan))
+
+#### Committers: 1
+- Jan Bobisud ([@bobisjan](https://github.com/bobisjan))
+
 ## Release (2026-05-14)
 
 * babel-plugin-ember-import-meta 0.0.5 (patch)

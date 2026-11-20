@@ -1,5 +1,10 @@
 # Changelog
 
+
+
+
+
+
 ## Release (2026-10-19)
 
 * babel-plugin-ember-import-meta 0.1.0 (minor)

@@ -29,7 +29,7 @@
   "devDependencies": {
     "@babel/core": "^8.0.1",
     "@eslint/js": "^10.0.1",
-    "@eslint/markdown": "^8.0.0",
+    "@eslint/markdown": "^9.0.0",
     "babel-plugin-ember-template-compilation": "^4.0.0",
     "content-tag": "^4.0.0",
     "ember-source": "^7.0.0",

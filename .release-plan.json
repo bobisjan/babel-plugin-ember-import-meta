@@ -1,18 +1,8 @@
 {
   "solution": {
     "babel-plugin-ember-import-meta": {
-      "impact": "minor",
-      "oldVersion": "0.0.5",
-      "newVersion": "0.1.0",
-      "tagName": "latest",
-      "constraints": [
-        {
-          "impact": "minor",
-          "reason": "Appears in changelog section :rocket: Enhancement"
-        }
-      ],
-      "pkgJSONPath": "./package.json"
+      "oldVersion": "0.1.0"
     }
   },
-  "description": "## Release (2026-10-19)\n\n* babel-plugin-ember-import-meta 0.1.0 (minor)\n\n#### :rocket: Enhancement\n* `babel-plugin-ember-import-meta`\n  * [#129](https://github.com/bobisjan/babel-plugin-ember-import-meta/pull/129) Allow to use helper module imports with Babel 8 ([@bobisjan](https://github.com/bobisjan))\n\n#### Committers: 1\n- Jan Bobisud ([@bobisjan](https://github.com/bobisjan))\n"
+  "description": "\n\n\n\n"
 }
